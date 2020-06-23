@@ -1,2 +1,2 @@
-# Prop 
-### The link to our website: http://i399963.hera.fhict.nl/
+LatitudeMusicFestival is a website for a 3 day musical event where you can purchase your tickets online.
+You are also able to see the different artists playing choose a camping spot with your friends at the event location.
